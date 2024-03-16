@@ -1,0 +1,18 @@
+.dflex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.gap{
+    gap: 3rem;
+    list-style: none;
+}
+
+
+li{
+    padding: 1rem;
+}
+
+.logo{padding: 2rem;}
