@@ -7,12 +7,23 @@
 
 .gap{
   gap: 3rem;
-  list-style: none;
 }
 
 
-li{
+li a{
   padding: 1rem;
+  text-decoration: none;
+  font-weight: bold;
+  color: red;
+
+}
+
+li a:hover{
+  font-size: 1.1rem;
+  cursor: pointer;
+  color: rgb(172, 163, 163);
+  
 }
 
 .logo{padding: 2rem;}
+
