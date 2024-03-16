@@ -1,7 +1,8 @@
 .dflex{
   display: flex;
-  flex-direction: row;
   justify-content: space-around;
+  flex-direction: row;
+
 }
 
 
@@ -25,5 +26,7 @@ li a:hover{
   
 }
 
-.logoooo{padding: 2rem;}
+.logo{
+  padding: 2rem;
+}
 
